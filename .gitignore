@@ -4,3 +4,4 @@
 *.txt
 .project
 .classpath
+src/
