@@ -2,3 +2,5 @@
 10.txt
 1.txt
 *.txt
+.project
+.classpath
