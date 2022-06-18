@@ -2,3 +2,5 @@
 
 .project
 .classpath
+src/test/resources
+src/main/java
